@@ -6,7 +6,7 @@
 👩🏻‍💻 Aspiring Software Engineer/AI Engineer! <br/>
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-cupsa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/aidan-antony-01ab90326)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](antonyaidan4@gmail.com)
 
 # 💻 Tech Stack
